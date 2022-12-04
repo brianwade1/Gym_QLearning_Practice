@@ -1,0 +1,16 @@
+# Ignore these files:
+
+# vscode
+.vscode/*
+settings.json
+launch.json
+
+# Local History for Visual Studio Code
+.history/
+
+# pycash
+__pycashe__/*
+*.pyc
+
+# mac files
+.DS_Store
