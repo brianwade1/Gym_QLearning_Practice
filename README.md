@@ -12,6 +12,7 @@ This repo allows the user to train the agent with and without reward shaping. Wh
 
 This equation provides a reward between -1 and 0 that linearly increases from -1 at the mid_point to 0 at the goal. This gives the agent intermediate feedback that it is making progress when it sees increasing values of the x-position.
 
+---
 
 ## Results
 Results training with the reward shaping:

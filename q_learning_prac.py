@@ -22,7 +22,7 @@ BINS = 40  # Number of bins to discretize the x-axis observation space
 LEARNING_RATE = 0.1 # alpha 
 DISCOUNT = 0.99 # gamma
 EPISODES = 30_000 # total number of episodes to train
-USE_REWARD_SHAPING = True
+USE_REWARD_SHAPING = False
 
 # Exploration settings
 EPSILON_START = 1  # starting value - will decay later
